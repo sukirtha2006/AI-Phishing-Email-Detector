@@ -1,0 +1,17 @@
+email,label
+"Your bank account is blocked. Verify immediately",phishing
+"Congratulations you won a free prize. Claim now",phishing
+"Click here to update your password immediately",phishing
+"Your account has suspicious activity. Verify now",phishing
+"Urgent! Your payment failed. Click this link",phishing
+"You won a lottery. Claim your reward today",phishing
+"Your account will be suspended. Login now",phishing
+"Confirm your bank details to receive a refund",phishing
+"Your college assignment is due tomorrow",legitimate
+"Your examination timetable has been published",legitimate
+"Your meeting is scheduled for Monday",legitimate
+"Please find the class notes attached",legitimate
+"Your library book return date is tomorrow",legitimate
+"Your application has been received successfully",legitimate
+"The college event starts at 10 AM",legitimate
+"Your project review is scheduled for Friday",legitimate
